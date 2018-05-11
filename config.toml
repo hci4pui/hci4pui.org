@@ -37,7 +37,7 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 # Add your own params here
 [params]
   author = "HCI4PUI"
-  avatar = "/img/avatar.jpg"
+  avatar = "/media/avatar.jpg"
   seotitle = "HCI 4 PUI"
   subtitle = "Human Computer Interaction for Primarily Undergraduate Institutions"
   description = "The majority of all institutions for higher education are PUIs. This is a group of scholars who support each other in teaching and conducting research in the interdisciplinary field of Human Computer Interaction at such institutions."
