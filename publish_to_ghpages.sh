@@ -23,3 +23,9 @@ hugo
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
+# Come Back up to the Project Root
+cd ..
+
+# Push source and build repos.
+git push origin gh-pages
