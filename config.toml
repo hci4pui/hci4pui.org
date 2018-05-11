@@ -22,11 +22,11 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "home"
   url = "/"
 
-[[menu.main]]
-  name = "Works"
-  weight = 20
-  identifier = "works"
-  url = "/works"
+#[[menu.main]]
+#  name = "Works"
+#  weight = 20
+#  identifier = "works"
+#  url = "/works"
 
 #[[menu.main]]
 #  name = "Tags"
