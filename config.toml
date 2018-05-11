@@ -1,0 +1,75 @@
+baseURL = "http://hci4pui.org"
+languageCode = "en"
+title = "HCI4PUI"
+theme = "hugo-nuo"
+enableRobotsTXT = true
+PygmentsCodeFences = true
+canonifyurls = true
+
+# Disqus Username
+#disqusShortname = "disqus_shortname"
+
+# Google Analytics UA number
+#googleAnalytics = "UA-XXXXXXXX-X"
+
+# Copyright of your post
+copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please cite source if you wish to quote or reproduce."
+
+# Initial site menu, you can extend menu with content.
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "Works"
+  weight = 20
+  identifier = "works"
+  url = "/works"
+
+#[[menu.main]]
+#  name = "Tags"
+#  weight = 30
+#  identifier = "tags"
+#  url = "/tags/"
+
+# Add your own params here
+[params]
+  author = "HCI4PUI"
+  avatar = "/img/avatar.jpg"
+  seotitle = "HCI 4 PUI"
+  subtitle = "Human Computer Interaction for Primarily Undergraduate Institutions"
+  description = "The majority of all institutions for higher education are PUIs. This is a group of scholars who support each other in teaching and conducting research in the interdisciplinary field of Human Computer Interaction at such institutions."
+  paginate = 10
+
+  # Choose your social networks
+  #email = "name@domain.com"
+  #github = "hci4pui"
+  #twitter = "twitter_username"
+  #linkedin = "linkedin_username"
+  #weibo = "weibo_username"
+  #wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
+  # facebook = "facebook_username"
+  # google = "googlplus_id_number"
+  # instagram = "instagram_username"
+  # youtube = "youtube_username"
+  # vimeo = "vimeo_username"
+  # medium = "medium_username"
+  # quora = "quora_username"
+  # pinterest = "pinterest_username"
+  # dribbble = "dribbble_username"
+  # behance = "behance_username"
+  # jsfiddle = "jsfiddle_username"
+  # codepen = "codepen_username"
+  # zhihu = "zhihu_username"
+  # douban = "douban_username"
+  # bilibili = "bilibili_id_number"
+
+  # Google Webmaster
+  # https://www.google.com/webmasters/
+  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+
+  # Bing Webmaster
+  # https://www.bing.com/toolbox/webmaster/
+  msValidate = "22596E34341DD1D17D6022C44647E587"

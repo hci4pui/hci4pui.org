@@ -1,0 +1,17 @@
+01_link:
+  title: Evan Peck
+  link: https://www.eg.bucknell.edu/~emp017/
+  avatar: /media/links/evanpeck.jpg
+  description: Asst. Prof. of C.S. at Bucknell
+
+02_link:
+  title: Madeline Smith
+  link: http://madsesmith.com/
+  avatar: /media/links/madsesmith.jpg
+  description: Asst. Prof. of C.S. at Colgate
+
+03_link:
+  title: Michael Stewart
+  link: http://hcientist.com/
+  avatar: /media/links/hcientist.jpg
+  description: Asst. Prof. of C.S. at James Madison University
