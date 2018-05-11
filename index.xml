@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HCI4PUI</title>
+    <link>http://hci4pui.org/</link>
+    <description>Recent content on HCI4PUI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please cite source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Fri, 11 May 2018 09:58:21 -0400</lastBuildDate>
+    
+	<atom:link href="http://hci4pui.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Members</title>
+      <link>http://hci4pui.org/members/</link>
+      <pubDate>Fri, 11 May 2018 09:58:21 -0400</pubDate>
+      
+      <guid>http://hci4pui.org/members/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://hci4pui.org/about/</link>
+      <pubDate>Fri, 11 May 2018 10:04:00 -0400</pubDate>
+      
+      <guid>http://hci4pui.org/about/</guid>
+      <description>Connect with us on Slack and/or our mailing list.</description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>http://hci4pui.org/works/</link>
+      <pubDate>Fri, 11 May 2018 10:04:00 -0400</pubDate>
+      
+      <guid>http://hci4pui.org/works/</guid>
+      <description> HCI for PUI: Human-Computer Interaction for Primarily-Undergraduate Institutions How to Build a Student-Centered Research Culture for the Benefit of Undergraduate Students Strategies for Including Soft Skills and Interdisciplinary Content in CS Education &amp;hellip;  </description>
+    </item>
+    
+  </channel>
+</rss>
