@@ -8,4 +8,4 @@ weight: 50
 comments: false
 ---
 
-Connect with us on Slack (email a [member](/members) who knows you) and/or [our mailing list](https://groups.google.com/forum/#!forum/hciforpui).
+Connect with us on [our mailing list](https://groups.google.com/forum/#!forum/hciforpui). For those who are early in their HCI career (pre-tenure), we have a channel in the Early Careers in HCI Slack. Ask a member if you'd like more information.
