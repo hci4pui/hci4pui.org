@@ -1,17 +1,23 @@
-01_link:
+Papoutsaki_link:
+  title: Alexandra Papoutsaki
+  link: http://www.cs.pomona.edu/~apapoutsaki/
+  avatar: /media/links/alexpap-square-crop.jpg
+  description: Asst. Prof. of C.S. at Pomona College
+
+Peck_link:
   title: Evan M. Peck
   link: https://www.eg.bucknell.edu/~emp017/
   avatar: /media/links/evanpeck.jpg
   description: Asst. Prof. of C.S. at Bucknell
 
-02_link:
+Smith_link:
   title: Madeline E. Smith
   link: http://madsesmith.com/
   avatar: /media/links/madsesmith.jpg
   description: Asst. Prof. of C.S. at Colgate
 
-03_link:
+Stewart_link:
   title: Michael Stewart
   link: http://hcientist.com/
   avatar: /media/links/hcientist.jpg
-  description: Asst. Prof. of C.S. at James Madison University
+  description: Asst. Prof. of C.S. at JMU
