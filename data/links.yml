@@ -21,3 +21,21 @@ Stewart_link:
   link: http://hcientist.com/
   avatar: /media/links/hcientist.jpg
   description: Asst. Prof. of C.S. at JMU
+
+Milne_link:
+  title: Lauren Milne
+  link: https://homes.cs.washington.edu/~milnel2/
+  avatar: /media/links/laurenmilne.jpg
+  description: Asst. Prof. of C.S. at Macalester
+
+Jackson_link:
+  title: Bret Jackson
+  link: http://bret-jackson.com/
+  avatar: /media/links/bretjackson.jpg
+  description: Asst. Prof. of C.S. at Macalester
+
+Sen_link:
+  title: Shilad Sen
+  link: http://shilad.com/
+  avatar: /media/links/shilad.jpg
+  description: Assoc. Prof. of C.S. at Macalester
