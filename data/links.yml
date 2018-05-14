@@ -1,9 +1,3 @@
-Papoutsaki_link:
-  title: Alexandra Papoutsaki
-  link: http://www.cs.pomona.edu/~apapoutsaki/
-  avatar: /media/links/alexpap-square-crop.jpg
-  description: Asst. Prof. of C.S. at Pomona College
-
 Peck_link:
   title: Evan M. Peck
   link: https://www.eg.bucknell.edu/~emp017/
@@ -21,3 +15,15 @@ Stewart_link:
   link: http://hcientist.com/
   avatar: /media/links/hcientist.jpg
   description: Asst. Prof. of C.S. at JMU
+
+Papoutsaki_link:
+  title: Alexandra Papoutsaki
+  link: http://www.cs.pomona.edu/~apapoutsaki/
+  avatar: /media/links/alexpap-square-crop.jpg
+  description: Asst. Prof. of C.S. at Pomona College
+
+Howley_link:
+  title: Iris Howley
+  link: http://www.irishowley.com
+  avatar: http://www.cs.williams.edu/~iris/website/img/profile.png
+  description: Asst. Prof. of C.S. at Williams College
