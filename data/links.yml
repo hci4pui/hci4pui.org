@@ -45,6 +45,12 @@ Howley_link:
   link: http://www.irishowley.com
   avatar: http://www.cs.williams.edu/~iris/website/img/profile.png
   description: Asst. Prof. of C.S. at Williams College
+  
+Davis_link:
+  title: Janet Davis
+  link: http://cs.whitman.edu/~davisj
+  avatar: https://avatars3.githubusercontent.com/u/19829843
+  description: Assoc. Prof. of C.S. at Whitman College
 
 Tibau_link:
   title: Javier Tibau
