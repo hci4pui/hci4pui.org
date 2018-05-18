@@ -10,7 +10,7 @@ canonifyurls = true
 #disqusShortname = "disqus_shortname"
 
 # Google Analytics UA number
-#googleAnalytics = "UA-XXXXXXXX-X"
+googleAnalytics = "UA-113465330-2"
 
 # Copyright of your post
 copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please cite source if you wish to quote or reproduce."
@@ -44,8 +44,8 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   paginate = 10
 
   # Choose your social networks
-  #email = "name@domain.com"
-  #github = "hci4pui"
+  email = "webmaster@hci4pui.org"
+  github = "hci4pui"
   #twitter = "twitter_username"
   #linkedin = "linkedin_username"
   #weibo = "weibo_username"
@@ -68,8 +68,8 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
 
   # Google Webmaster
   # https://www.google.com/webmasters/
-  googleSiteVerification = "_moDmnnBNVLBN1rzNxyGUGdPHE20YgbmrtzLIbxaWFc"
+  googleSiteVerification = "HPal1oLF47omgJPuPCb0G2RRFFOjssRwB2xFrx2UffI"
 
   # Bing Webmaster
   # https://www.bing.com/toolbox/webmaster/
-  msValidate = "22596E34341DD1D17D6022C44647E587"
+  msValidate = "BF2C62CB583F6F0C88532565C3816345"
