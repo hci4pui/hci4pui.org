@@ -1,4 +1,4 @@
-baseURL = "http://hci4pui.org"
+baseURL = "//hci4pui.org"
 languageCode = "en"
 title = "HCI4PUI"
 theme = "hugo-nuo"

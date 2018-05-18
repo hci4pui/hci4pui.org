@@ -1,59 +1,59 @@
 Peck_link:
   title: Evan M. Peck
-  link: https://www.eg.bucknell.edu/~emp017/
+  link: //www.eg.bucknell.edu/~emp017/
   avatar: /media/links/evanpeck.jpg
   description: Asst. Prof. of C.S. at Bucknell
 
 Smith_link:
   title: Madeline E. Smith
-  link: http://madsesmith.com/
+  link: //madsesmith.com/
   avatar: /media/links/madsesmith.jpg
   description: Asst. Prof. of C.S. at Colgate
 
 Stewart_link:
   title: Michael Stewart
-  link: http://hcientist.com/
+  link: //hcientist.com/
   avatar: /media/links/hcientist.jpg
   description: Asst. Prof. of C.S. at JMU
 
 Milne_link:
   title: Lauren Milne
-  link: https://homes.cs.washington.edu/~milnel2/
+  link: //homes.cs.washington.edu/~milnel2/
   avatar: /media/links/laurenmilne.jpg
   description: Asst. Prof. of C.S. at Macalester
 
 Jackson_link:
   title: Bret Jackson
-  link: http://bret-jackson.com/
+  link: //bret-jackson.com/
   avatar: /media/links/bretjackson.jpg
   description: Asst. Prof. of C.S. at Macalester
 
 Sen_link:
   title: Shilad Sen
-  link: http://shilad.com/
+  link: //shilad.com/
   avatar: /media/links/shilad.jpg
   description: Assoc. Prof. of C.S. at Macalester
   
 Papoutsaki_link:
   title: Alexandra Papoutsaki
-  link: http://www.cs.pomona.edu/~apapoutsaki/
+  link: //www.cs.pomona.edu/~apapoutsaki/
   avatar: /media/links/alexpap-square-crop.jpg
   description: Asst. Prof. of C.S. at Pomona College
 
 Howley_link:
   title: Iris Howley
-  link: http://www.irishowley.com
-  avatar: http://www.cs.williams.edu/~iris/website/img/profile.png
+  link: //www.irishowley.com
+  avatar: //www.cs.williams.edu/~iris/website/img/profile.png
   description: Asst. Prof. of C.S. at Williams College
   
 Davis_link:
   title: Janet Davis
-  link: http://cs.whitman.edu/~davisj
-  avatar: https://avatars3.githubusercontent.com/u/19829843
+  link: //cs.whitman.edu/~davisj
+  avatar: //avatars3.githubusercontent.com/u/19829843
   description: Assoc. Prof. of C.S. at Whitman College
 
 Tibau_link:
   title: Javier Tibau
-  link: http://thirdlab.cs.vt.edu/people/javier-tibau/
+  link: //thirdlab.cs.vt.edu/people/javier-tibau/
   avatar: /media/links/javier-tibau.jpg
   description: Asst. Prof. of C.S. at ESPOL
