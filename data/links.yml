@@ -69,3 +69,9 @@ Self_Link:
   link: //www.umw.edu/directory/employee/jessica-self-jzeitz/
   avatar: /media/links/jzeitz.jpg
   description: Asst. Prof. of C.S. at University of Mary Washington
+
+Dalal_Link:
+  title: Amy Csizmar Dalal
+  link: //cs.carleton.edu/faculty/adalal
+  avatar: /media/links/Csizmar_Dalal_Amy.jpg
+  description: Professor of C.S. at Carleton College
