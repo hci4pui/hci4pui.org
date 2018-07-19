@@ -75,3 +75,9 @@ Dalal_Link:
   link: //cs.carleton.edu/faculty/adalal
   avatar: /media/links/Csizmar_Dalal_Amy.jpg
   description: Professor of C.S. at Carleton College
+
+LeeJoonSuk_Link:
+  title: Joon Suk Lee
+  link: //joonlee.org
+  avatar: /media/links/joonsuklee.jpg
+  description: Asst. Prof. of C.S. at Virginia State University
