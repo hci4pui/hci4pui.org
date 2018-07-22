@@ -2,82 +2,104 @@ Peck_link:
   title: Evan M. Peck
   link: //www.eg.bucknell.edu/~emp017/
   avatar: /media/links/evanpeck.jpg
-  description: Asst. Prof. of C.S. at Bucknell
+  description: Asst. Prof. of C.S.
+  institution: Bucknell
 
 Smith_link:
   title: Madeline E. Smith
   link: //madsesmith.com/
   avatar: /media/links/madsesmith.jpg
-  description: Asst. Prof. of C.S. at Colgate
+  description: Asst. Prof. of C.S.
+  institution: Colgate University
 
 Stewart_link:
   title: Michael Stewart
   link: //hcientist.com/
   avatar: /media/links/hcientist.jpg
-  description: Asst. Prof. of C.S. at JMU
+  description: Asst. Prof. of C.S.
+  institution: James Madison University
 
 Milne_link:
   title: Lauren Milne
   link: //homes.cs.washington.edu/~milnel2/
   avatar: /media/links/laurenmilne.jpg
-  description: Asst. Prof. of C.S. at Macalester
+  description: Asst. Prof. of C.S.
+  institution: Macalester College
 
 Jackson_link:
   title: Bret Jackson
   link: //bret-jackson.com/
   avatar: /media/links/bretjackson.jpg
-  description: Asst. Prof. of C.S. at Macalester
+  description: Asst. Prof. of C.S.
+  institution: Macalester College
 
 Sen_link:
   title: Shilad Sen
   link: //shilad.com/
   avatar: /media/links/shilad.jpg
-  description: Assoc. Prof. of C.S. at Macalester
+  description: Assoc. Prof. of C.S.
+  institution: Macalester College
   
 Papoutsaki_link:
   title: Alexandra Papoutsaki
   link: //www.cs.pomona.edu/~apapoutsaki/
   avatar: /media/links/alexpap-square-crop.jpg
-  description: Asst. Prof. of C.S. at Pomona College
+  description: Asst. Prof. of C.S.
+  institution: Pomona College
 
 Howley_link:
   title: Iris Howley
   link: //www.irishowley.com
   avatar: //www.cs.williams.edu/~iris/website/img/profile.png
-  description: Asst. Prof. of C.S. at Williams College
+  description: Asst. Prof. of C.S.
+  institution: Williams College
   
 Davis_link:
   title: Janet Davis
   link: //cs.whitman.edu/~davisj
   avatar: //avatars3.githubusercontent.com/u/19829843
-  description: Assoc. Prof. of C.S. at Whitman College
+  description: Assoc. Prof. of C.S.
+  institution: Whitman College
 
 Tibau_link:
   title: Javier Tibau
   link: //thirdlab.cs.vt.edu/people/javier-tibau/
   avatar: /media/links/javier-tibau.jpg
-  description: Asst. Prof. of C.S. at ESPOL
+  description: Asst. Prof. of C.S.
+  institution: Escuela Superior Politecnica del Litoral
 
 Sauppe_link:
   title: Allie Sauppé
   link: //faculty.cs.uwlax.edu/~asauppe/
   avatar: /media/links/allieSauppe.jpg
-  description: Asst. Prof. of C.S. at University of Wisconsin–La Crosse
+  description: Asst. Prof. of C.S.
+  institution: University of Wisconsin–La Crosse
 
 Self_Link:
   title: Jessica Zeitz Self
   link: //www.umw.edu/directory/employee/jessica-self-jzeitz/
   avatar: /media/links/jzeitz.jpg
-  description: Asst. Prof. of C.S. at University of Mary Washington
+  description: Asst. Prof. of C.S.
+  institution: University of Mary Washington
 
 Dalal_Link:
   title: Amy Csizmar Dalal
   link: //cs.carleton.edu/faculty/adalal
   avatar: /media/links/Csizmar_Dalal_Amy.jpg
-  description: Professor of C.S. at Carleton College
+  description: Professor of C.S.
+  institution: Carleton College
 
 LeeJoonSuk_Link:
   title: Joon Suk Lee
   link: //joonlee.org
   avatar: /media/links/joonsuklee.jpg
-  description: Asst. Prof. of C.S. at Virginia State University
+  description: Asst. Prof. of C.S.
+  institution: Virginia State University
+
+
+Abel_Link:
+  title: Troy Abel
+  link: //art.unt.edu/people/troy-abel
+  avatar: /media/links/_troyabel_bw.jpg
+  description: Asst. Prof. of Communication Design
+  institution: University of North Texas
