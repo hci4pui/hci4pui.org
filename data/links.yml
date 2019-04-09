@@ -103,3 +103,10 @@ Abel_Link:
   avatar: /media/links/troyabel_bw.jpg
   description: Asst. Prof. of Communication Design
   institution: University of North Texas
+
+Hoyle_Link:
+  title: Roberto Hoyle
+  link: //www.oberlin.edu/roberto-hoyle
+  avatar: /media/links/rjhoyle.jpg
+  description: Asst. Prof. of C.S.
+  institution: Oberlin College
