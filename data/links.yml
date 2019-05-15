@@ -110,3 +110,10 @@ Hoyle_Link:
   avatar: /media/links/rjhoyle.jpg
   description: Asst. Prof. of C.S.
   institution: Oberlin College
+
+Shaer_link:
+  title: Orit Shaer
+  link: //cs.wellesley.edu/~oshaer/
+  avatar: /media/links/oritshaer_400x400.jpg
+  description: Asst. Prof. of C.S.
+  institution: Wellesley College
