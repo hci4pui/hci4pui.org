@@ -117,3 +117,10 @@ Shaer_link:
   avatar: /media/links/oritshaer_400x400.jpg
   description: Associate Prof. of C.S.
   institution: Wellesley College
+
+Cedeno_link:
+  title: Vanessa Cedeno-Mieles
+  link: https://vcedeno.github.io/
+  avatar: /media/links/vcedeno-mieles.jpg
+  description: Assistant Prof. of C.S.
+  institution: Escuela Superior Politecnica del Litoral
